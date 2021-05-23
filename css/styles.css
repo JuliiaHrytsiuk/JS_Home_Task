@@ -1,0 +1,17 @@
+.nick {
+  color: black;
+  background-color: burlywood;
+
+  text-align: center;
+}
+
+.desk {
+  background-color: palegoldenrod;
+  color: black;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1.63em;
+  letter-spacing: 0.03em;
+}
